@@ -1,15 +1,21 @@
 {
   "articles": [
+      {
+      "title": "The Craft of Designing Systems in Games",
+      "file": "notes/system_design.md",
+      "date": "2026-02-28",
+      "hashtags": ["game design", "game systems"]
+    },
     {
       "title": "Slay the Spire deep dive key insights",
       "file": "notes/slay_the_spire_key_insights.md",
-      "date": "2026-02-23",
+      "date": "2026-02-27",
       "hashtags": ["game research","boardgames", "slay the spire"]
      },
       {
       "title": "Slay the Spire deep dive interview",
       "file": "notes/slay_the_spire_deepdive_interview.md",
-      "date": "2026-02-23",
+      "date": "2026-02-27",
       "hashtags": ["game research","boardgames", "slay the spire"]
      },
      {

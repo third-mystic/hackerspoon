@@ -1,5 +1,17 @@
 {
   "articles": [
+    {
+      "title": "Slay the Spire deep dive key insights",
+      "file": "notes/slay_the_spire_key_insights.md",
+      "date": "2026-02-23",
+      "hashtags": ["game research","boardgames", "slay the spire"]
+     },
+      {
+      "title": "Slay the Spire deep dive interview",
+      "file": "notes/slay_the_spire_deepdive_interview.md",
+      "date": "2026-02-23",
+      "hashtags": ["game research","boardgames", "slay the spire"]
+     },
      {
       "title": "Deckbuilding 101",
       "file": "notes/deckbuilding_101.md",

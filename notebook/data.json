@@ -1,6 +1,12 @@
 {
   "articles": [
-       {
+     {
+      "title": "Deckbuilding 101",
+      "file": "notes/deckbuilding_101.md",
+      "date": "2026-02-23",
+      "hashtags": ["game design","boardgames"]
+     },
+     {
       "title": "Books of Angels",
       "file": "notes/books-of-angels.md",
       "date": "2026-02-10",
